@@ -1,0 +1,7 @@
+torch
+allennlp
+python-Levenshtein
+transformers
+scikit-learn
+sentencepiece
+overrides
